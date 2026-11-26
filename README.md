@@ -141,3 +141,6 @@ El plan de evacuación se guarda en el archivo **`plan_evacuacion.txt`**, dentro
 - NetBeans / VS Code
 - Git y GitHub
 
+  #VIDEO Del manual de uso de los diversos algoritmos empleados y la funcionalidad
+   https://youtu.be/Apjr1rZymLo
+
