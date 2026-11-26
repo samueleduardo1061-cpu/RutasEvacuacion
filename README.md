@@ -88,6 +88,9 @@ El sistema representa habitaciones, pasillos, escaleras y salidas de emergencia 
 
 4\. Revisar el recorrido BFS y la simulación de evacuación.
 
+##Video
+https://youtu.be/Apjr1rZymLo
+
 
 
 \## Autoría
